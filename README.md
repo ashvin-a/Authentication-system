@@ -1,2 +1,2 @@
 # Authentication-system
-Authentication system using Django Simple JWT and OAuth
+Authentication system using Django OAuth
